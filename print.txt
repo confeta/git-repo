@@ -1,1 +1,2 @@
-print(ÔHello, world!Õ)
+print('Hello, world!')
+print('Hello, confeta!')
